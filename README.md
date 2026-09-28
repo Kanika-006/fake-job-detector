@@ -1,4 +1,4 @@
-# FraudSense — Explainable Fake Job Posting Detection
+# FraudSense — Fake Job Posting Detection
 
 An NLP-based machine learning project for detecting potentially fraudulent job postings and explaining the signals behind the model's prediction.
 
