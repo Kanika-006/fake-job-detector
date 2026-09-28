@@ -22,6 +22,17 @@ The goal is not only to classify a job posting, but also to provide understandab
 
  **Try FraudSense:** [Open Live App](https://fake-job-detector-mntdmkprpko8nf53ru8b7a.streamlit.app/)
 
+## Screenshots
+
+### FraudSense Interface
+![FraudSense Interface](screenshots/fraudsense-home.png)
+
+### Prediction
+![FraudSense Prediction](screenshots/fraudsense-prediction.png)
+
+### Explainability & Suspicious Signals
+![FraudSense Explainability](screenshots/fraudsense-explainability.png)
+
 ## Dataset
 
 The project uses the Kaggle Fake Job Postings dataset.
