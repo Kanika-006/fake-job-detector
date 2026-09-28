@@ -18,6 +18,9 @@ This project builds an explainable classification system that combines:
 - Streamlit deployment
 
 The goal is not only to classify a job posting, but also to provide understandable evidence behind the prediction.
+## Live Demo
+
+ **Try FraudSense:** [Open Live App](https://fake-job-detector-mntdmkprpko8nf53ru8b7a.streamlit.app/)
 
 ## Dataset
 
