@@ -47,33 +47,62 @@ The dataset contains 17,880 job postings, with fraudulent postings representing 
 
 ## Project Workflow
 
-Dataset  
-↓  
-EDA & Data Cleaning  
-↓  
-Train / Test Split  
-↓  
-Text Preprocessing  
-↓  
-TF-IDF + Logistic Regression  
-↓  
-TF-IDF + Linear SVM  
-↓  
-Structured Feature Engineering  
-↓  
-Hybrid Model Experiment  
-↓  
-BiLSTM Experiment  
-↓  
-Model Comparison  
-↓  
-Error Analysis  
-↓  
-Explainability  
-↓  
-Suspicious Signal Detection  
-↓  
-Streamlit Deployment
+```text
+┌─────────────────────────────────────┐
+│          Dataset                    │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│       EDA & Data Cleaning           │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│       Train / Test Split            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│       Text Preprocessing            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│ TF-IDF + Logistic Regression        │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│      TF-IDF + Linear SVM            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│    Structured Feature Engineering   │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│       Hybrid Model Experiment       │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│          BiLSTM Experiment           │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│         Model Comparison            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│           Error Analysis            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│           Explainability            │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│      Suspicious Signal Detection    │
+└─────────────────────────────────────┘
+                  ↓
+┌─────────────────────────────────────┐
+│       Streamlit Deployment          │
+└─────────────────────────────────────┘
 
 ## Models
 
